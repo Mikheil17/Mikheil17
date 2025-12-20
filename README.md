@@ -22,7 +22,7 @@ Experience the passage of time as you go through each day, growing older and com
 #### [Eternal Darkness and its Blind Spot](https://github.com/Mikheil17/Eternal-Darkness-and-its-Blind-Spot)
 As you explore different enviroments and follow clues to escape, you slowly discover each room connects to your life - and death.
 
-#### [Paradis OS](https://github.com/Mikheil17/Paradise-OS/tree/main)
+#### [Paradise OS](https://github.com/Mikheil17/Paradise-OS/tree/main)
 Follow a new and innovative AI technology that tries to create the "Perfect" game by adapting player feedback and iterating through experiences.
 
 #### [Technicolor](https://github.com/Mikheil17/Technicolor)
