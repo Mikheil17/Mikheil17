@@ -1,4 +1,4 @@
-# Welcome! 🌙✨
+# Welcome! ✨🌙
 
 I am a Junior Computer Science student at Mississippi State University with a passion in Human & Visual Computing. Blending the visual arts with modern day digital technology.
 I love creating immersive narrative-driven games both on screen and in VR, as well as designing elegant and engaging websites.
