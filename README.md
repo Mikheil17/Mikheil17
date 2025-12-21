@@ -33,7 +33,7 @@ A short glimpse into a dreamscape of peace and colorful lands, where all your wo
 
 
 ## 🛠️Skills
-**Front-End**: HTML | CSS | JavaScript | Bootstrap | Grid | Flexbox | React | jQuery | TypeScript | RESTful APIs  
+**Front-End**: HTML | CSS | JavaScript | Bootstrap | React | jQuery | TypeScript | RESTful APIs  
 **Technical**: Unity | Python | C | C++ | C# | SQL | SQLite  
 **Tools & Platforms**: Git | GitHub | Visual Studio Code | Figma  
 
