@@ -1,7 +1,7 @@
 # Welcome! ✨🌙
 
-I am a Junior Computer Science student at Mississippi State University with a passion in Human & Visual Computing. Blending the visual arts with modern day digital technology.
-I love creating immersive narrative-driven games both on screen and in VR, as well as designing elegant and engaging websites.
+I am a Junior Computer Science student at Mississippi State University with a passion in Human & Visual Computing. Blending the visual arts with modern day technology.
+I love creating immersive narrative-driven games both on screen and in VR, as well as designing elegant and engaging interfaces.
 
 ## </> Featured Projects
 #### [Pop Art Wordle](https://github.com/Mikheil17/Pop-Art-Wordle)
