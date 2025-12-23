@@ -20,7 +20,7 @@ A static personal portfolio website showcasing selected projects and creative wo
 Experience the passage of time as you go through each day, growing older and coming to realize the fleeting nature of life.
 
 #### [Eternal Darkness and its Blind Spot](https://github.com/Mikheil17/Eternal-Darkness-and-its-Blind-Spot)
-As you explore different enviroments and follow clues to escape, you slowly discover each room connects to your life - and death.
+As you explore different environments and follow clues to escape, you slowly discover each room connects to your life - and death.
 
 #### [Paradise OS](https://github.com/Mikheil17/Paradise-OS/tree/main)
 Follow a new and innovative AI technology that tries to create the "Perfect" game by adapting player feedback and iterating through experiences.
