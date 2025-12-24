@@ -22,11 +22,11 @@ Experience the passage of time as you go through each day, growing older and com
 ### [Eternal Darkness and its Blind Spot](https://github.com/Mikheil17/Eternal-Darkness-and-its-Blind-Spot)
 As you explore different environments and follow clues to escape, you slowly discover each room connects to your life - and death.
 
-### [Paradise OS](https://github.com/Mikheil17/Paradise-OS/tree/main)
-Follow a new and innovative AI technology that tries to create the "Perfect" game by adapting player feedback and iterating through experiences.
-
 ### [Technicolor](https://github.com/Mikheil17/Technicolor)
 Transition from a 1940s noir detective-style alleyway to a colorful, pulp sci-fi-inspired futuristic metropolis.
+
+### [Paradise OS](https://github.com/Mikheil17/Paradise-OS/tree/main)
+Follow a new and innovative AI technology that tries to create the "Perfect" game by adapting player feedback and iterating through experiences.
 
 ### [A Moment in Time](https://github.com/Mikheil17/A-Moment-in-Time)
 A short glimpse into a dreamscape of peace and colorful lands, where all your worries are whisked away by serene melodies and the sounds of waves crashing against your boat.
