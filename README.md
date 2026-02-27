@@ -34,7 +34,7 @@ A short glimpse into a dreamscape of peace and colorful lands, where all your wo
 
 ## 🛠️Skills
 **Front-End**: HTML | CSS | JavaScript | TypeScript | React | BootStrap | RESTful APIs  
-**Technical**: Python | C++ | C# | SQL 
+**Technical**: Python | C++ | C# | SQL  
 **Tools & Platforms**: Unity | Git | GitHub | Visual Studio Code | SQLite | Figma | Procreate  
 
 ## 📩Contact Me
