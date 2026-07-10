@@ -28,7 +28,7 @@ Follow a new and innovative AI technology that tries to create the "Perfect" gam
 ### [A Moment in Time](https://github.com/Mikheil17/A-Moment-in-Time)
 A short glimpse into a dreamscape of peace and colorful lands, where all your worries are whisked away by serene melodies and the sounds of waves crashing against your boat.
 
-### [Online Shopping Experience](https://github.com/Mikheil17/Custom-Programming-Language)
+### [Custom Programming Language](https://github.com/Mikheil17/Custom-Programming-Language)
 A TIPS interpreter, built from scratch.
 
 ### [Online Shopping Experience](https://github.com/Mikheil17/Shopping-Cart)
