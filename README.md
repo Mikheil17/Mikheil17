@@ -25,6 +25,9 @@ Transition from a 1940s noir detective-style alleyway to a colorful, pulp sci-fi
 ### [Paradise OS](https://github.com/Mikheil17/Paradise-OS/tree/main)
 Follow a new and innovative AI technology that tries to create the "Perfect" game by adapting player feedback and iterating through experiences.
 
+### [Against The Dying Light](https://github.com/Mikheil17/Against-The-Dying-Light)
+Survive until dawn by exploring the dark forest and finding scattered poems to keep your fire alive.
+
 ### [A Moment in Time](https://github.com/Mikheil17/A-Moment-in-Time)
 A short glimpse into a dreamscape of peace and colorful lands, where all your worries are whisked away by serene melodies and the sounds of waves crashing against your boat.
 
