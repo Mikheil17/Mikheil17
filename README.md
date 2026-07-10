@@ -1,6 +1,6 @@
 # Welcome! ✨🌙
 
-I am a Junior Computer Science student at Mississippi State University with a passion for Human & Visual Computing. Blending the visual arts with modern day technology.
+I am a Senior Computer Science student at Mississippi State University with a passion for Human & Visual Computing. Blending the visual arts with modern day technology.
 I love creating immersive narrative-driven games both on screen and in VR, as well as designing elegant and engaging interfaces.
 
 ## </> Featured Projects
@@ -33,9 +33,9 @@ A short glimpse into a dreamscape of peace and colorful lands, where all your wo
 
 
 ## 🛠️Skills
-**Front-End**: HTML | CSS | JavaScript | TypeScript | React | BootStrap | RESTful APIs  
-**Technical**: Python | C++ | C# | SQL  
-**Tools & Platforms**: Unity | Git | GitHub | Visual Studio Code | SQLite | Figma | Procreate  
+**Front-End**: HTML | CSS | React | Bootstrap
+**Technical**: JavaScript | PHP | Python | C++ | C# | TypeScript
+**Tools & Platforms**: Unity | Godot | Git | GitHub | VS Code | MySQL | SQLite | Figma | Procreate | RESTful APIs 
 
 ## 📩Contact Me
 **Email**: mikheil.gabrielidze@gmail.com  
