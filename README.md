@@ -11,7 +11,7 @@ A creative, retro-inspired reimagining of the classic Wordle game with pop art v
 Human-centered alert dashboard designed in collaboration with FedEx for a Human-Computer Interaction course.
 
 ### [Personal Portfolio Website](https://github.com/Mikheil17/Personal-Portfolio-Website)
-A static personal portfolio website showcasing selected projects and creative work.
+A personal portfolio showcasing selected projects and creative work.
 
 ### [Death's Hand In Mine](https://github.com/Mikheil17/Deaths-Hand-In-Mine)
 Experience the passage of time as you go through each day, growing older and coming to realize the fleeting nature of life.
